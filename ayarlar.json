@@ -1,0 +1,19 @@
+{
+  "fon_rejimi": "random",
+  "fon_reng": "#682477",
+  "fon_sekiller": [],
+  "qaraltma": 47,
+  "font": "C:\\Users\\s4152\\InstagramClockBot\\TCCEB.TTF",
+  "yazi_reng": "#ffffff",
+  "kontur": true,
+  "saat_format": "%H:%M",
+  "saat_olcu": 100,
+  "saat_x": 0,
+  "saat_y": -26,
+  "tarix_goster": true,
+  "tarix_format": "%d-%b-%y",
+  "tarix_olcu": 52,
+  "tarix_x": 0,
+  "tarix_y": 51,
+  "interval": 60
+}
