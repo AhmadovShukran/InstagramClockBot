@@ -1,5 +1,5 @@
 {
-  "background_mode": "gradient",
+  "background_mode": "image",
   "background_color": "#9b0000",
   "gradient_color1": "#1222e9",
   "gradient_color2": "#ac2d30",
@@ -17,9 +17,9 @@
   "text_color": "#ffffff",
   "outline": true,
   "time_format": "%H:%M",
-  "time_size": 106,
+  "time_size": 102,
   "time_x": 0,
-  "time_y": -25,
+  "time_y": -21,
   "date_show": true,
   "date_format": "%d-%b-%y",
   "date_size": 52,
